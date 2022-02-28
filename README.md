@@ -2,7 +2,7 @@
 
 ## Mini-jeu Javascript Natif
 
-DinoJS est la reproduction du mini-jeu de google, dans lequel nous devons éviter les obstacles sous forme de cactus en sautant, pendant que le jeu accélère de plus en plus.
+DinoJS est la reproduction du mini-jeu de google, dans lequel nous devons éviter les obstacles sous forme de cactus en sautant avec notre dinosaure, pendant que le jeu accélère de plus en plus.
 
 ## Installation
 
